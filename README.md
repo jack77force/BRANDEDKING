@@ -8,10 +8,10 @@
 
 [![](https://img.shields.io/badge/BRANDEDKING-V2-darkgreen)](#)
 [![Stars](https://img.shields.io/github/stars/WCGKING/BRANDEDKING?style=flat-square&color=yellow)](https://github.com/WCGKING/BRANDEDKING/stargazers)
-[![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/WCGKING/BRANDEDKING/fork)
+[![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/Ayushop99/fork)
 
 
-![logo](https://te.legra.ph/file/8ec25796bc604fbfacdf1.jpg)
+![logo](https://telegra.ph/file/e1bc7d71f1cc636969327.jpg)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
 </p>
@@ -35,7 +35,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 </p>
 <h3 align="center">
 
-![logo](https://te.legra.ph/file/e545cecbd06581d1a98f3.jpg)
+![logo]([https://te.legra.ph/file/e545cecbd06581d1a98f3.jpg](https://telegra.ph/file/e1bc7d71f1cc636969327.jpg))
 
 ━━━━━━━━━━━━
 

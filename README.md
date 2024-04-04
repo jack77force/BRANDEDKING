@@ -16,7 +16,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐓𝐎𝐗𝐈𝐂 𓆩🇽𓆪  𝐌𝐔𝐒𝐊𝐀𝐍 𓆩🇽𓆪  𝗠𝗨𝗦𝗜𝗖](https://t.me/toxic_mod_vip)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐓𝐎𝐗𝐈𝐂 𓆩🇽𓆪 𝐌𝐔𝐒𝐊𝐀𝐍 𓆩🇽𓆪  𝗠𝗨𝗦𝗜𝗖](https://t.me/toxic_mod_vip)**
 
 
 <h2 align="center">
@@ -78,6 +78,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 • BRANDEDKING is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-Made with ♥️ by [𝗪𝗖𝗚𝗞𝗜𝗡𝗚](https://github.com/jack77force)
+Made with ♥️ by [𝐓𝐎𝐗𝐈𝐂](https://github.com/jack77force)
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ᴛᴏxɪᴄ](https://github.com/jack77force) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/jack77force/BRANDEDKING). </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ᴛᴏxɪᴄ](https://github.com/jack77force) ғᴏʀ [ᴛᴏxɪᴄ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/jack77force/BRANDEDKING). </b>

@@ -1,8 +1,8 @@
-from BRANDEDKING.core.bot import BRANDED
-from BRANDEDKING.core.dir import dirr
-from BRANDEDKING.core.git import git
-from BRANDEDKING.core.userbot import Userbot
-from BRANDEDKING.misc import dbb, heroku, sudo
+from TOXIC.core.bot import TOXIC
+from TOXIC.core.dir import dirr
+from TOXIC.core.git import git
+from TOXIC.core.userbot import Userbot
+from TOXIC.misc import dbb, heroku, sudo
 
 from .logging import LOGGER
 
@@ -11,7 +11,7 @@ git()
 dbb()
 heroku()
 
-app = BRANDED()
+app = TOXIC()
 userbot = Userbot()
 
 

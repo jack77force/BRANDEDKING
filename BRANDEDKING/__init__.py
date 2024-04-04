@@ -1,8 +1,8 @@
-from TOXIC.core.bot import TOXIC
-from TOXIC.core.dir import dirr
-from TOXIC.core.git import git
-from TOXIC.core.userbot import Userbot
-from TOXIC.misc import dbb, heroku, sudo
+from BRANDED.core.bot import BRANDED.core.bot
+from BRANDED.core.bot.core.dir import dirr
+from BRANDED.core.bot.core.git import git
+from BRANDED.core.bot.core.userbot import Userbot
+from BRANDED.core.bot.misc import dbb, heroku, sudo
 
 from .logging import LOGGER
 
@@ -11,7 +11,7 @@ git()
 dbb()
 heroku()
 
-app = TOXIC()
+app = BRANDED.core.bot()
 userbot = Userbot()
 
 

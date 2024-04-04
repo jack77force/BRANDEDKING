@@ -1,22 +1,22 @@
 ━━━━━━━━━━━━━━━━━━━━
-# 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝓧 𝗞𝗜𝗡𝗚
+# 𝐓𝐎𝐗𝐈𝐂 𝓧 𝐕𝐈𝐏
 
 ━━━━━━━━━━━━━━━━━━━━
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 
 
-[![](https://img.shields.io/badge/BRANDEDKING-V2-darkgreen)](#)
-[![Stars](https://img.shields.io/github/stars/WCGKING/BRANDEDKING?style=flat-square&color=yellow)](https://github.com/WCGKING/BRANDEDKING/stargazers)
-[![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/WCGKING/BRANDEDKING/fork)
+[![](https://img.shields.io/badge/TOXIC-V2-darkgreen)](#)
+[![Stars](https://img.shields.io/github/stars/jack77force/BRANDEDKING?style=flat-square&color=yellow)](https://github.com/jack77force/BRANDEDKING/stargazers)
+[![Forks](https://img.shields.io/github/forks/jack77force/BRANDEDKING?style=flat-square&color=orange)](https://github.com/jack77force/BRANDEDKING/fork)
 
 
-![logo](https://te.legra.ph/file/8ec25796bc604fbfacdf1.jpg)
+![logo](https://telegra.ph/file/f9d652a468d003691af2d.jpg)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪  𝗞𝗛𝗨𝗦𝗜𝗖 𓆩🇽𓆪  𝗠𝗨𝗦𝗜𝗖](https://t.me/KHUSHI_MUSIC76_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐓𝐎𝐗𝐈𝐂 𓆩🇽𓆪  𝐌𝐔𝐒𝐊𝐀𝐍 𓆩🇽𓆪  𝗠𝗨𝗦𝗜𝗖](https://t.me/toxic_mod_vip)**
 
 
 <h2 align="center">
@@ -40,7 +40,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 ━━━━━━━━━━━━
 
 ## 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗩𝗣𝗦
-- Get your [Necessary Variables](https://github.com/WCGKING/BRANDEDKING/blob/master/.env)
+- Get your [Necessary Variables](https://github.com/jack77force/BRANDEDKING/blob/master/.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -52,7 +52,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/WCGKING/BRANDEDKING && cd BRANDEDKING`
+`git clone https://github.com/jack77force/BRANDEDKING && cd BRANDEDKING`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -66,18 +66,18 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 
-[![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/BRANDED_WORLD)
-[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/BRANDRD_BOT)
-[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)]([https://t.me/BRANDED_PAID_CC)
+[![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/toxic_mod_vip)
+[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/toxic_mod_vip)
+[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/toxic_mod_vip)
 ━━━━━━━━━━━━━━━━━━━━
 
 # Credit
-  - [𝐁𝐑𝐀𝐍𝐃𝐄𝐃 𝐗 𝐊𝐈𝐍𝐆](https://github.com/BRANDEDKING82)
+  - [𝐓𝐎𝐗𝐈𝐂 𝐕𝐈𝐏](https://github.com/jack77force)
 
 • This project is TheGodFather.
 
 • BRANDEDKING is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-Made with ♥️ by [𝗪𝗖𝗚𝗞𝗜𝗡𝗚](https://github.com/WCGKING)
+Made with ♥️ by [𝗪𝗖𝗚𝗞𝗜𝗡𝗚](https://github.com/jack77force)
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/BRANDEDKING). </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ᴛᴏxɪᴄ](https://github.com/jack77force) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/jack77force/BRANDEDKING). </b>

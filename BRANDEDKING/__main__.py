@@ -5,12 +5,12 @@ from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from BRANDEDKING import LOGGER, app, userbot
-from BRANDEDKING.core.call import BRANDED
-from BRANDEDKING.misc import sudo
-from BRANDEDKING.plugins import ALL_MODULES
-from BRANDEDKING.utils.database import get_banned_users, get_gbanned
-from config import BANNED_USERS
+from TOXIC import LOGGER, app, userbot
+from TOXIC.core.call import BRANDED
+from TOXIC.misc import sudo
+from TOXIC.plugins import ALL_MODULES
+from TOXIC.utils.database import get_banned_users, get_gbanned
+from config import TOXIC_USERS
 
 
 async def init():
@@ -26,35 +26,35 @@ async def init():
     try:
         users = await get_gbanned()
         for user_id in users:
-            BANNED_USERS.add(user_id)
+            TOXIC_USERS.add(user_id)
         users = await get_banned_users()
         for user_id in users:
-            BANNED_USERS.add(user_id)
+            TOXIC_USERS.add(user_id)
     except:
         pass
     await sudo()
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("BRANDEDKING.plugins" + all_module)
-    LOGGER("BRANDEDKING.plugins").info("Successfully Imported Modules...")
+        importlib.import_module("TOXIC.plugins" + all_module)
+    LOGGER("TOXIC.plugins").info("Successfully Imported Modules...")
     await userbot.start()
-    await BRANDED.start()
+    await TOXIC.start()
     try:
-        await BRANDED.stream_call("https://graph.org/file/ec8a35dd5f1ef90947167.mp4")
+        await TOXIC.stream_call("https://graph.org/file/ec8a35dd5f1ef90947167.mp4")
     except NoActiveGroupCall:
-        LOGGER("BRANDEDKING").error(
+        LOGGER("TOXIC").error(
             "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
         )
         exit()
     except:
         pass
-    await BRANDED.decorators()
-    LOGGER("BRANDEDKING").info(
-        "BRANDED Music Bot Started Successfully"
+    await TOXIC.decorators()
+    LOGGER("TOXIC").info(
+        "TOXIC Music Bot Started Successfully"
     )
     await idle()
     await app.stop()
-    LOGGER("BRANDEDKING").info("Stopping BRANDED Music Bot...")
+    LOGGER("TOXIC").info("Stopping TOXIC Music Bot...")
 
 
 if __name__ == "__main__":

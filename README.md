@@ -11,7 +11,7 @@
 [![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/WCGKING/BRANDEDKING/fork)
 
 
-![logo](https://te.legra.ph/file/8ec25796bc604fbfacdf1.jpg)
+![logo](https://telegra.ph/file/83ba36fcaa53f1c39cbd7.jpg)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
 </p>
@@ -26,12 +26,12 @@
 ## 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WCGKING/BRANDEDKING)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jack77force/BRANDEDKING)
 
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://telegram.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗪𝗢𝗥𝗟𝗗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TEL_EGRAM_WALI_MAST"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗪𝗢𝗥𝗟𝗗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
 
